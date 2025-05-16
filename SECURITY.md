@@ -12,7 +12,7 @@ The table below shows which versions of the AI Interview Prompt Template are cur
 
 If you discover a security issue in the AI Interview Prompt Template, we encourage responsible disclosure.
 
-- **Report Method:** Please email us at [security@aiinterviewtools.com](mailto:adnanmuhammad4393@gmail.com) or open a issue labeled `security`.
+- **Report Method:** Please email us at [adnanmuhammad4393@gmail.com](mailto:adnanmuhammad4393@gmail.com) or open a issue labeled `security`.
 - **Response Time:** Expect an initial response within **48–72 hours**.
 - **Process:**
   - Valid reports will be reviewed and patched promptly.
