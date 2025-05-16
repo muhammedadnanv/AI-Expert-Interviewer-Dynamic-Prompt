@@ -35,8 +35,8 @@ Ideal for:
 - AI career coaching agents
 - Resume-based candidate screening simulations
 - Personal preparation before real interviews
-
-## 📂 File Structure
+- 
+## ATS Freindly Resume : https://www.sxoresumebulider.site/
 
 
 
