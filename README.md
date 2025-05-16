@@ -1,4 +1,4 @@
-# AI-Powered Interviewer (40-Year Expertise)
+# AI-Powered Interviewer 
 
 This repository contains a dynamic AI prompt system designed to simulate expert-level interviews based on a user's resume and skills. The AI behaves like a seasoned interviewer with 40 years of experience in recruitment, delivering tailored and insightful interview questions for professional preparation.
 
