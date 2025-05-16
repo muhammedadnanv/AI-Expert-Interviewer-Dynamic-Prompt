@@ -2,6 +2,51 @@
 
 This repository contains a dynamic AI prompt system designed to simulate expert-level interviews based on a user's resume and skills. The AI behaves like a seasoned interviewer with 40 years of experience in recruitment, delivering tailored and insightful interview questions for professional preparation.
 
+
+
+
+---
+
+
+
+**Using Google AI Studio**
+
+---
+
+### **Step 1: Create Your Account**
+
+👉 Visit: [https://ai.google.dev/aistudio](https://ai.google.dev/aistudio)
+Click **“Sign in to Google AI Studio”** to get started.
+
+---
+
+### **Step 2: Open Stream Realtime**
+
+Once signed in, navigate to **Stream Realtime** to interact with Gemini live.
+
+---
+
+### **Step 3: Enable Webcam**
+
+Click the **Webcam** button and allow camera access when prompted. This enables face-to-face interaction with the AI.
+
+---
+
+
+---
+
+### **Enjoyed this?**
+
+👍 Star
+💾 Fork it 
+
+---
+
+Let me know if you’d like this turned into a downloadable PDF or presentation.
+
+
+
+
 ## 🚀 Purpose
 
 This project enables personalized, real-time interview simulations where questions are generated based entirely on the user’s specific resume and skillset. The goal is to improve interview readiness through targeted, role-specific practice conversations.
