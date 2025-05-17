@@ -31,7 +31,7 @@ Once signed in, navigate to **Stream Realtime** to interact with Gemini live.
 Click the **Webcam** button and allow camera access when prompted. This enables face-to-face interaction with the AI.
 
 ---
-## You the prompt
+## Use the prompt
 [AI-Expert-Interviewer-Dynamic-Prompt](expert_interviewer_dynamic_prompt.txt)
 
 ---
