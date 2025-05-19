@@ -63,7 +63,7 @@ This project enables personalized, real-time interview simulations where questio
 ## 🔧 How to Use
 
 1. **Prepare Resume Data:**
-   Structure your user data (resume and skills) in plain text or JSON format.
+   Structure your user data (resume and skills) in plain text .
 
 2. **Inject into Prompt:**
    Replace the `{{{{users}}}}` placeholder in the prompt with your actual resume data.
