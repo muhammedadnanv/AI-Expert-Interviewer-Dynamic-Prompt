@@ -68,10 +68,9 @@ This project enables personalized, real-time interview simulations where questio
 2. **Inject into Prompt:**
    Replace the `{{{{users}}}}` placeholder in the prompt with your actual resume data.
 
-3. **Run in LLM Interface:**
-   Use the full system instruction and prompt inside any LLM interface (like OpenAI's ChatGPT API, Make.com, or custom AI agents).
 
-4. **Start Interview:**
+
+3. **Start Interview:**
    The AI will begin asking tailored questions based on your provided data.
 
 ## 📦 Example Use Case
