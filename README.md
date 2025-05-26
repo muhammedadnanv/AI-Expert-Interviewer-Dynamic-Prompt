@@ -81,8 +81,17 @@ Ideal for:
 - Resume-based candidate screening simulations
 - Personal preparation before real interviews
 - 
-## ATS Freindly Resume : https://www.sxoresumebulider.site/
 
+
+## 🙌 Support My Work
+
+If you found this Method helpful and would like to support my work, feel free to make a donation. Every contribution helps me continue building and sharing more useful tools!
+
+You can scan the QR code below to donate:
+
+![Donate via UPI](https://i.ibb.co/YTQ0GstB/upi-payment-qr-1747635199082.png)
+
+Thank you for your support! 💖
 
 
 
